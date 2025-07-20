@@ -20,7 +20,7 @@ Game Engine made in pure python that uses python turtle for rendering.
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/IQ-GROUP/Turtle-Engine
    cd Turtle-Engine
    ```
 2. **Install dependencies:**
